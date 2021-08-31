@@ -8,13 +8,13 @@ export default function Home() {
     <div className={styles.container}>
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
+          Admin
         </h1>
 
         <p>
-          <Link href="/admin">
+          <Link href="/">
             <a>
-              <h2>Admin &rarr;</h2>
+              <h2>Home &rarr;</h2>
             </a>
           </Link>
         </p>
