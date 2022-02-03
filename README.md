@@ -2,7 +2,7 @@
 
 Demo for tutorial [How to Add Custom Dynamic Favicons in React & Next.js](https://www.youtube.com/watch?v=6P8RvKb0_tU)
 
-🚀 See Demo: https://my-nextjs-favicon-app.netlify.app/
+🚀 See Demo: https://my-favicon-app.netlify.app/
 
 📝 Article: https://spacejelly.dev/posts/how-to-add-custom-dynamic-favicons-in-react-next-js/
 
