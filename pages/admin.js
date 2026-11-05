@@ -1,5 +1,5 @@
 import Head from 'next/head'
-import Image from 'next/image'
+import Image from "next/legacy/image"
 import Link from 'next/link'
 import styles from '../styles/Home.module.css'
 
@@ -18,9 +18,7 @@ export default function Home() {
 
         <p>
           <Link href="/">
-            <a>
-              <h2>Home &rarr;</h2>
-            </a>
+            <h2>Home &rarr;</h2>
           </Link>
         </p>
       </main>
@@ -38,5 +36,5 @@ export default function Home() {
         </a>
       </footer>
     </div>
-  )
+  );
 }
