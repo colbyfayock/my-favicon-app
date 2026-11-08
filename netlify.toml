@@ -1,5 +1,6 @@
 [build]
 command = "node --version && yarn build"
+publish = ".next"
 
 [build.environment]
 NODE_VERSION = "24"
